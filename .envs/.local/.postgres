@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=ainco
+POSTGRES_USER=HHCBsNHMCsBQFjJXkEPvPAQbwYMsSfPt
+POSTGRES_PASSWORD=e9xN5oMS7iUC7MDS9D7Sx6u5tvYqiDzy12AUgbkqbUle4qyZ7ZXjbzT6G4yiGDyQ
